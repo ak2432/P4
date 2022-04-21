@@ -1,0 +1,64 @@
+/*DEVELOPER: Akram Katideen, IS117-006, Spring 2022 */
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+.learnMore
+{
+float: right;
+width: 40%;
+border: 1px solid blue;
+padding: 7px;
+}
+
+.tops-images
+{
+    width: 300px;
+    height: 300px;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+}
+.learnMore-Tops
+{
+width: 40%;
+border: 1px solid blue;
+padding: 7px;
+}
+.contact-form
+{
+    text-align: center; border: 1px solid black; width: 50%;padding: 10px;
+    margin-top: 30px;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    /* color: blue; */
+}
+h3
+{
+    font-style: italic;
+    /* color: blue; */
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+.slider{
+    width: 70% !important;
+    vertical-align: middle;margin-bottom: 100px; 
+    align-items: center;text-align: center;margin-left: 15% ;height: 400px;
+}
+.caption{
+    margin-bottom: 200px;
+    color: red;
+    
+}
